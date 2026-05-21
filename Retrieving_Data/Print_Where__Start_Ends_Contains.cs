@@ -455,7 +455,7 @@ public class Program
     {
 
 
-        SearchContactsContains("ae");
+        PrintOneRecord(4);
             ;
         Console.ReadKey();
     }
