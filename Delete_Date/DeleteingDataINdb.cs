@@ -14,13 +14,13 @@
 
             if (rowsAffected > 0)
             {
-                Console.WriteLine("Record Updated Successfully");
+                Console.WriteLine("Record Deleted Successfully");
 
 
             }
             else
             {
-                Console.WriteLine("Record Update Failed.");
+                Console.WriteLine("Record Delete Failed.");
             }
 
             connection.Close();
