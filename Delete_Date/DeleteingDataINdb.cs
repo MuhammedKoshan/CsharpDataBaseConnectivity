@@ -31,7 +31,7 @@
             Console.WriteLine("Error" + ex.Message);
         }
 
-
+        connection.Close();
 
     }
 
